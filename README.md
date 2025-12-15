@@ -5,8 +5,9 @@ A backend-focused system for managing NGO donations, distributions, and inventor
 This project was designed to emphasize backend engineering fundamentals such as clean data modeling, robust validation, service-oriented design, and automated testing.
 
 To run the project, run:
+```
 python main.py
-
+```
 ## Design Focus
 Key design decisions:
 - Donations and distributions are modeled as immutable domain events.
